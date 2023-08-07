@@ -2,7 +2,7 @@
 Use of this source code is governed by an Apache license
 that can be found in the LICENSE file. -->
 
-# Flutter WeChat Camera Picker
+# Flutter WeChat Camera Picker v2
 
 [![pub package](https://img.shields.io/pub/v/wechat_camera_picker?logo=dart&label=stable&style=flat-square)](https://pub.dev/packages/wechat_camera_picker)
 [![pub package](https://img.shields.io/pub/v/wechat_camera_picker?color=42a012&include_prereleases&label=dev&logo=dart&style=flat-square)](https://pub.dev/packages/wechat_camera_picker)
